@@ -23,7 +23,7 @@
 .form{
     position: relative;
     z-index: 1;
-    background:blue;
+    background:yellow;
     max-width:360px;
     margin:auto;
     padding:45px;
